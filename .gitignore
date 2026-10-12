@@ -1,0 +1,16 @@
+# 模型权重文件（my_catdog_best.pth 会被忽略）
+*.pth
+*.pt
+
+# 数据集图片文件夹
+my_cnn/all_data/
+
+# torch缓存文件夹
+my_cnn/torch_cache/
+
+# Python缓存垃圾
+__pycache__/
+*.pyc
+
+# pycharm配置文件
+.idea/
